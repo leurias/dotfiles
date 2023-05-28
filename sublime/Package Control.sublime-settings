@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Dark Knight Color Scheme",
+		"EditorConfig",
+		"ERB Autocomplete",
+		"MarkdownEditing",
+		"nginx",
+		"Nginx Log Highlighter",
+		"Nord",
+		"Package Control",
+		"PackageSync",
+		"Pretty YAML",
+		"RSpec",
+		"Superlime",
+		"Theme - Centurion",
+		"Theme - Monokai Pro",
+		"Theme - One Dark",
+		"Xcode Colors",
+	],
+}

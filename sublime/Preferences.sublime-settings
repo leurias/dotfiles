@@ -1,0 +1,22 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Default.sublime-theme",
+	// "font_face": "Inconsolata for Powerline",
+	// "font_face": "Fira Code",
+	// "font_face": "Mononoki",
+	// "font_face": "Operator Mono Medium",
+	// "font_face": "Roboto Mono",
+	// "font_face": "Consolas",
+	// "font_face": "Menlo",
+	"font_face": "LMMonoLt10-Bold",
+	// "font_face": "Iosevka",
+	// "font_face": "Droid Sans Mono",
+	"font_size": 19,
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 2,
+	"font_options": ["no_italic"],
+}
